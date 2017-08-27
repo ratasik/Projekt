@@ -1,0 +1,48 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 7800 Series (ID=0x6818)
+    Vendor:   ATI
+    VRAM:     2029 MB
+    Driver:   22.19.162.4
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\admin\Desktop\tyghhfg\Lost Sheep_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\admin\Desktop\tyghhfg\Lost Sheep_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Desktop\tyghhfg\Lost Sheep_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\admin\Desktop\tyghhfg\Lost Sheep_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Desktop\tyghhfg\Lost Sheep_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\admin\Desktop\tyghhfg\Lost Sheep_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Desktop\tyghhfg\Lost Sheep_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\admin\Desktop\tyghhfg\Lost Sheep_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Desktop\tyghhfg\Lost Sheep_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\admin\Desktop\tyghhfg\Lost Sheep_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.131 seconds
+Platform assembly: C:\Users\admin\Desktop\tyghhfg\Lost Sheep_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\admin\Desktop\tyghhfg\Lost Sheep_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3200x1128 at -1280,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.662361 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.429252 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 5118.
+Total: 1.472505 ms (FindLiveObjects: 0.301180 ms CreateObjectMapping: 0.034902 ms MarkObjects: 0.359250 ms  DeleteObjects: 0.776871 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3c38 -> priority: 1 
+  Thread -> id: 8f8 -> priority: 1 
+  Thread -> id: 2128 -> priority: 1 
+  Thread -> id: 3004 -> priority: 1 
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 44.833801 ms
+
+Unloading 113 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 1.554044 ms (FindLiveObjects: 0.023167 ms CreateObjectMapping: 0.014743 ms MarkObjects: 0.165183 ms  DeleteObjects: 1.350348 ms)
+
